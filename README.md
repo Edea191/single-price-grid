@@ -1,6 +1,6 @@
 # Frontend Mentor - Single price grid component
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
+This is a solution to the [Frontend Mentor - Single price grid component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/Edea191/single-price-grid/settings/pages
+- Solution URL: https://github.com/Edea191/single-price-grid
 - Live Site URL: https://edea191.github.io/single-price-grid/
 
 ## Built with
